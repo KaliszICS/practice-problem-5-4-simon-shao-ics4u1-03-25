@@ -60,8 +60,8 @@ public class VideoPlayer implements Player{
         return this.video;
     }
 
-    public void setVideo(String vid){
-        this.video = vid;
+    public void setVideo(String video){
+        this.video = video;
     }
 
 }
